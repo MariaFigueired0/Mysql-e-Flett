@@ -1,4 +1,3 @@
-bibliotecas "pip install"
 
 requests: Para acessar o site G1 e obter o HTML.
 
